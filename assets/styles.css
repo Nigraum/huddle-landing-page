@@ -18,6 +18,19 @@ body {
   flex-direction: column;
 }
 
+.container {
+  width: 90vw;
+  height: 95vh;
+}
+
+.header>img {
+  width: 15vw;
+}
+
+.header {
+  margin-top: 4vh;
+}
+
 .attribution { 
   font-size: 11px; 
   text-align: center; 
