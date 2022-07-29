@@ -9,6 +9,15 @@
   box-sizing: border-box;
 }
 
+body {
+  background: url('./images/bg-desktop.svg');
+  background-color: var(--violet);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .attribution { 
   font-size: 11px; 
   text-align: center; 
