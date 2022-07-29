@@ -563,67 +563,25 @@ video {
   margin-right: auto;
 }
 
-.my-12 {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-}
-
-.my-16 {
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-}
-
 .my-20 {
   margin-top: 5rem;
   margin-bottom: 5rem;
-}
-
-.mt-4 {
-  margin-top: 1rem;
-}
-
-.mt-10 {
-  margin-top: 2.5rem;
-}
-
-.mt-12 {
-  margin-top: 3rem;
-}
-
-.ml-4 {
-  margin-left: 1rem;
-}
-
-.ml-40 {
-  margin-left: 10rem;
 }
 
 .mt-16 {
   margin-top: 4rem;
 }
 
-.mt-24 {
-  margin-top: 6rem;
-}
-
 .ml-56 {
   margin-left: 14rem;
 }
 
-.ml-8 {
-  margin-left: 2rem;
+.mt-24 {
+  margin-top: 6rem;
 }
 
 .ml-12 {
   margin-left: 3rem;
-}
-
-.mb-2 {
-  margin-bottom: 0.5rem;
-}
-
-.mb-3 {
-  margin-bottom: 0.75rem;
 }
 
 .mb-4 {
@@ -642,114 +600,24 @@ video {
   height: 100%;
 }
 
-.h-fit {
-  height: -webkit-fit-content;
-  height: -moz-fit-content;
-  height: fit-content;
-}
-
-.h-40 {
-  height: 10rem;
-}
-
-.h-20 {
-  height: 5rem;
-}
-
-.h-16 {
-  height: 4rem;
-}
-
 .h-14 {
   height: 3.5rem;
-}
-
-.w-full {
-  width: 100%;
 }
 
 .w-screen {
   width: 100vw;
 }
 
-.w-14 {
-  width: 3.5rem;
-}
-
-.w-3 {
-  width: 0.75rem;
-}
-
-.w-4\/5 {
-  width: 80%;
-}
-
-.w-2\/5 {
-  width: 40%;
-}
-
-.w-16 {
-  width: 4rem;
-}
-
-.w-20 {
-  width: 5rem;
-}
-
-.w-96 {
-  width: 24rem;
-}
-
 .w-60 {
   width: 15rem;
 }
 
-.w-8 {
-  width: 2rem;
-}
-
-.w-72 {
-  width: 18rem;
-}
-
-.w-1\/2 {
-  width: 50%;
-}
-
-.w-10\/12 {
-  width: 83.333333%;
-}
-
-.w-7 {
-  width: 1.75rem;
-}
-
-.w-24 {
-  width: 6rem;
-}
-
-.w-40 {
-  width: 10rem;
+.w-full {
+  width: 100%;
 }
 
 .w-48 {
   width: 12rem;
-}
-
-.items-center {
-  align-items: center;
-}
-
-.justify-center {
-  justify-content: center;
-}
-
-.justify-items-center {
-  justify-items: center;
-}
-
-.rounded-lg {
-  border-radius: 0.5rem;
 }
 
 .rounded-full {
@@ -759,11 +627,6 @@ video {
 .bg-violetmain-300 {
   --tw-bg-opacity: 1;
   background-color: hsl(257 40% 49% / var(--tw-bg-opacity));
-}
-
-.bg-slate-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(226 232 240 / var(--tw-bg-opacity));
 }
 
 .bg-white {
@@ -787,32 +650,13 @@ video {
   background-repeat: no-repeat;
 }
 
-.px-20 {
-  padding-left: 5rem;
-  padding-right: 5rem;
-}
-
-.px-96 {
-  padding-left: 24rem;
-  padding-right: 24rem;
-}
-
-.px-60 {
-  padding-left: 15rem;
-  padding-right: 15rem;
-}
-
 .px-56 {
   padding-left: 14rem;
   padding-right: 14rem;
 }
 
-.pl-56 {
-  padding-left: 14rem;
-}
-
-.text-left {
-  text-align: left;
+.pt-14 {
+  padding-top: 3.5rem;
 }
 
 .text-center {
@@ -827,26 +671,6 @@ video {
   font-family: Open Sans, sans-serif;
 }
 
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
-.text-9xl {
-  font-size: 8rem;
-  line-height: 1;
-}
-
-.text-6xl {
-  font-size: 3.75rem;
-  line-height: 1;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
@@ -857,42 +681,12 @@ video {
   line-height: 1.5rem;
 }
 
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
-}
-
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-}
-
 .font-semibold {
   font-weight: 600;
 }
 
 .font-normal {
   font-weight: 400;
-}
-
-.leading-3 {
-  line-height: .75rem;
-}
-
-.leading-10 {
-  line-height: 2.5rem;
-}
-
-.leading-relaxed {
-  line-height: 1.625;
-}
-
-.leading-normal {
-  line-height: 1.5;
-}
-
-.leading-snug {
-  line-height: 1.375;
 }
 
 .leading-tight {
@@ -904,20 +698,19 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-sofmagenta-300 {
-  --tw-text-opacity: 1;
-  color: hsl(300 69% 71% / var(--tw-text-opacity));
-}
-
 .text-violetmain-300 {
   --tw-text-opacity: 1;
   color: hsl(257 40% 49% / var(--tw-text-opacity));
 }
 
-.shadow-2xl {
-  --tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
-  --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+.text-footergreen-300 {
+  --tw-text-opacity: 1;
+  color: rgb(79 255 75 / var(--tw-text-opacity));
+}
+
+.underline {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
 }
 
 .shadow-xl {
@@ -931,10 +724,6 @@ video {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-duration: 150ms;
-}
-
-.duration-150 {
   transition-duration: 150ms;
 }
 
