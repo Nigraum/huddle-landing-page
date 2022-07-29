@@ -73,6 +73,28 @@ body {
   width: 33vw;
 }
 
+.register {
+  background-color: #fff;
+  width: 8vw;
+  padding: 0.8vw;
+  text-align: center;
+  margin-top: 3vh;
+  box-shadow: 0px 0px 21px #3a3a3a;
+  border-radius: 10vw;
+  border: none;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: var(--soft-magenta);
+}
+
+
+.register:hover {
+  cursor: pointer;
+  background-color: var(--soft-magenta);
+  color: white;
+}
+
+
 .attribution { 
   font-size: 11px; 
   text-align: center; 
