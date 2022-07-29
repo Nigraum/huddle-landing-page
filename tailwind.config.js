@@ -8,6 +8,7 @@ module.exports = {
       },
       fontFamily: {
         sans: 'Poppins, sans-serif',
+        open: 'Open Sans, sans-serif',
       },
       colors: {
         violetmain: {
