@@ -4,11 +4,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        desktop: 'url(/src/assets/bg-desktop.svg)'
+        desktop: 'url(/assets/images/bg-desktop.svg)'
       },
       fontFamily: {
-        sans: 'Poppins, sans-serif',
-        open: 'Open Sans, sans-serif',
+        poppins: ['Poppins', 'sans-serif'],
+        open: ['Open Sans', 'sans-serif'],
       },
       colors: {
         violetmain: {

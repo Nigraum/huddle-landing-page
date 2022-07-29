@@ -42,7 +42,7 @@ html {
   -o-tab-size: 4;
      tab-size: 4;
   /* 3 */
-  font-family: Poppins, sans-serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* 4 */
 }
 
@@ -558,43 +558,40 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.container {
+.h-full {
+  height: 100%;
+}
+
+.w-full {
   width: 100%;
-}
-
-@media (min-width: 640px) {
-  .container {
-    max-width: 640px;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    max-width: 768px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .container {
-    max-width: 1024px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .container {
-    max-width: 1280px;
-  }
-}
-
-@media (min-width: 1536px) {
-  .container {
-    max-width: 1536px;
-  }
 }
 
 .bg-red-300 {
   --tw-bg-opacity: 1;
   background-color: rgb(252 165 165 / var(--tw-bg-opacity));
+}
+
+.bg-violet-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(196 181 253 / var(--tw-bg-opacity));
+}
+
+.bg-violet-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(139 92 246 / var(--tw-bg-opacity));
+}
+
+.bg-violetmain-300 {
+  --tw-bg-opacity: 1;
+  background-color: hsl(257 40% 49% / var(--tw-bg-opacity));
+}
+
+.bg-desktop {
+  background-image: url(/assets/images/bg-desktop.svg);
+}
+
+.font-open {
+  font-family: Open Sans, sans-serif;
 }
 
 .text-3xl {
