@@ -1,8 +1,23 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [],
+  content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        desktop: 'url(/src/assets/bg-desktop.svg)'
+      },
+      fontFamily: {
+        sans: 'Poppins, sans-serif',
+      },
+      colors: {
+        violetmain: {
+          300: 'hsl(257, 40%, 49%)',
+        },
+        sofmagenta: {
+          300: 'hsl(300, 69%, 71%)',
+        }
+      },
+    },
   },
   plugins: [],
 }
