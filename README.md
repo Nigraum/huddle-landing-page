@@ -1,8 +1,9 @@
-# Frontend Mentor - Order summary card
-![desktop-preview](https://user-images.githubusercontent.com/102248990/181608023-c0854c81-70ec-4e8a-8908-fbe867533aba.jpg)
+# Frontend Mentor - Huddle landing page with single introductory section
+
+![desktop-preview](https://user-images.githubusercontent.com/102248990/181843843-48c2f389-44ae-4d34-9a4d-760987049289.jpg)
 
 ## Link
-https://order-summary-component-nigraum.vercel.app/
+https://huddle-landing-page-nigraum.vercel.app/
 
 ## 💻 Projeto
 
