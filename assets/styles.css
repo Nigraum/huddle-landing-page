@@ -24,11 +24,20 @@ body {
 }
 
 .header>img {
-  width: 15vw;
+  width: 12vw;
 }
 
 .header {
   margin-top: 4vh;
+}
+
+.box {
+  display: flex;
+  margin-top: 10vh;
+}
+
+#img > img {
+  width: 50vw;
 }
 
 .attribution { 
