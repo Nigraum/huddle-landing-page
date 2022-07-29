@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        desktop: 'url(/assets/images/bg-desktop.svg)'
+        desktop: 'url(/assets/images/bg-desktop.svg)',
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
