@@ -1,4 +1,6 @@
-# Frontend Mentor - Huddle landing page with single introductory section
+<div align="center">
+<h1> Frontend Mentor - Huddle landing page with single introductory section </h1>
+</div>
 
 ![desktop-preview](https://user-images.githubusercontent.com/102248990/181843843-48c2f389-44ae-4d34-9a4d-760987049289.jpg)
 
